@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMAgentieImobiliara", "CRMAgentieImobiliara.csproj", "{B78E4240-9D7D-46F9-AE27-6F9A7C4715AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMAgentieImobiliaraModel", "..\CRMAgentieImobiliaraModel\CRMAgentieImobiliaraModel.csproj", "{5DF2A55C-FD80-4407-A07E-CCA3173EA375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78E4240-9D7D-46F9-AE27-6F9A7C4715AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78E4240-9D7D-46F9-AE27-6F9A7C4715AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78E4240-9D7D-46F9-AE27-6F9A7C4715AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78E4240-9D7D-46F9-AE27-6F9A7C4715AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF2A55C-FD80-4407-A07E-CCA3173EA375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2A55C-FD80-4407-A07E-CCA3173EA375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2A55C-FD80-4407-A07E-CCA3173EA375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2A55C-FD80-4407-A07E-CCA3173EA375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED15A9D-3BA1-468B-937A-D8D5FAFA39F5}
+	EndGlobalSection
+EndGlobal
